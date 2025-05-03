@@ -89,9 +89,9 @@ pm2 startup
 
 ## 👨‍💻 Developer
 
-- **Name**: [Danuka DIsanayaka]
-- **GitHub**: [github.com/your-username](https://github.com/DANUWA_MD)
-- **Youtube**: [@yourhandle](https://www.youtube.com/@quizontal)
+- **Name**: [Danuka Disanayaka]
+- **GitHub**: [github.com/DANUWA-MD](https://github.com/DANUWA_MD)
+- **Youtube**: [@Quizontal](https://www.youtube.com/@quizontal)
 
 ---
 
@@ -107,4 +107,4 @@ If you like this project, don’t forget to ⭐️ the repo!
 
 ---
 
-> Made with 💖 by DANUWA-MD Team
+> Made with 💖 by Danuka Disanayaka
