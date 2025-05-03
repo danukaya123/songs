@@ -90,7 +90,7 @@ pm2 startup
 ## 👨‍💻 Developer
 
 - **Name**: [Danuka Disanayaka]
-- **GitHub**: [github.com/DANUWA-MD](https://github.com/DANUWA_MD)
+- **GitHub**: [github.com/DANUWA-MD](https://github.com/DANUWA-MD)
 - **Youtube**: [@Quizontal](https://www.youtube.com/@quizontal)
 
 ---
